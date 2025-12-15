@@ -37,4 +37,4 @@ otel:
     sampler: always_on
 
 order:
-  message: "Updated from Git without restart"
+  message: "portps message from RIMS"
