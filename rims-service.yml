@@ -43,4 +43,4 @@ otel:
     sampler: always_on
 
 order:
-  message: "portps message from QM"
+  message: "portps message from Mano"
